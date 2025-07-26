@@ -18,6 +18,7 @@
 
 
 ### ⚛️ Frontend Framework & Tools
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -26,6 +27,7 @@
 
 
 ### 🧑‍🤝‍🧑 Collaboration & Design
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -35,6 +37,7 @@
 ---
 
 ## 👨‍👩‍👧‍👦 Collaboration & Leadership
+
 - 팀 프로젝트에서 프론트엔드 역할 수행  
 - **디자인 시스템 설계**, **컴포넌트 분리**, **기획 피드백**을 통한 유기적인 협업 경험  
 - 싸피 교육과정에서 개발뿐 아니라 **조율과 커뮤니케이션** 역량을 꾸준히 길러옴
@@ -42,6 +45,7 @@
 ---
 
 ## 🌱 About Me
+
 - **비전공자 출신**, 끊임없이 성장하는 개발자  
 - Vue로 시작해 React + TypeScript 기반 개발로 확장  
 - 사용자 중심의 기획과 개발을 즐기며, 배운 내용을 곧바로 실전에 적용하는 데 익숙함  
@@ -50,6 +54,7 @@
 ---
 
 ## 📫 Contact
+
 - 📮 Email: rinmani10002@gmail.com  
 - 📱 Phone: 010-9094-5450
 - 📘 [Notion Portfolio](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)  
