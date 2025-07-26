@@ -55,4 +55,4 @@
 
 - 📮 Email: rinmani10002@gmail.com  
 - 📱 Phone: 010-9094-5450
-- 📘 Notion Portfolio: [https://your-notion-link.notion.site](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)  
+- 📘 Notion Portfolio: [노션링크](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)  
