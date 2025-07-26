@@ -28,6 +28,7 @@
 ### 🧑‍🤝‍🧑 Collaboration & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -35,7 +36,7 @@
 
 ## 👨‍👩‍👧‍👦 Collaboration & Leadership
 
-- 3회 이상의 팀 프로젝트에서 프론트엔드 **리드** 역할 수행  
+- 팀 프로젝트에서 프론트엔드 역할 수행  
 - **디자인 시스템 설계**, **컴포넌트 분리**, **기획 피드백**을 통한 유기적인 협업 경험  
 - 싸피 교육과정에서 개발뿐 아니라 **조율과 커뮤니케이션** 역량을 꾸준히 길러옴
 
@@ -53,5 +54,5 @@
 ## 📫 Contact
 
 - 📮 Email: rinmani10002@gmail.com  
-- 🧑‍💻 Blog: [https://your-blog-link](https://your-blog-link)  
-- 🐙 GitHub: [https://github.com/your-username](https://github.com/your-username)  
+- 📱 Phone: 010-9094-5450
+- 📘 Notion Portfolio: [https://your-notion-link.notion.site](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)  
