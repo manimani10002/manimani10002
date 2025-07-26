@@ -4,7 +4,7 @@
 유지보수성과 재사용성을 중시하는 프론트엔드 개발자 박태현입니다. 
 복잡한 UI 로직을 구조적으로 나누고, 컴포넌트 단위로 설계해 팀원들과 함께 효율적으로 구현해 나가는 과정을 좋아합니다.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -33,7 +33,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## 👨‍👩‍👧‍👦 Collaboration & Leadership
 
@@ -41,7 +41,7 @@
 - **디자인 시스템 설계**, **컴포넌트 분리**, **기획 피드백**을 통한 유기적인 협업 경험  
 - 싸피 교육과정에서 개발뿐 아니라 **조율과 커뮤니케이션** 역량을 꾸준히 길러옴
 
----
+
 
 ## 🌱 About Me
 
@@ -50,7 +50,7 @@
 - 사용자 중심의 기획과 개발을 즐기며, 배운 내용을 곧바로 실전에 적용하는 데 익숙함  
 - 기록과 정리를 좋아해, Notion과 GitHub를 활용한 아카이빙에 진심입니다  
 
----
+
 
 ## 📫 Contact
 
