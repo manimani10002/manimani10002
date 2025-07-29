@@ -58,4 +58,4 @@
 - 📱 Phone: 010-9094-5450
 - 📘 [Notion Portfolio](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rinmani10002@gmail.com)](https://solved.ac/rinmani10002@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rinmani10002)](https://solved.ac/rinmani10002)
