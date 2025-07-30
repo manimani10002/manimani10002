@@ -61,4 +61,4 @@
 
 ## 🧮 Algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={rinmani10002})](https://solved.ac/{rinmani10002})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinmani10002)](https://solved.ac/rinmani10002)
