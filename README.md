@@ -52,15 +52,16 @@
 
 
 
-## 📫 Contact
-
-- 📮 Email: rinmani10002@gmail.com  
-- 📱 Phone: 010-9094-5450
-- 📘 [Notion Portfolio](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)
-
 
 ## 🧮 Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinmani10002)](https://solved.ac/rinmani10002)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rinmani10002&theme=warm)
+
+
+## 📫 Contact
+
+- 📮 Email: rinmani10002@gmail.com  
+- 📱 Phone: 010-9094-5450
+- 📘 [Notion Portfolio](https://www.notion.so/Portfolio-2008b76a138c80019346c5ab535c50df)
