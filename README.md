@@ -52,14 +52,6 @@
 
 
 
-
-## 🧮 Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinmani10002)](https://solved.ac/rinmani10002)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rinmani10002&theme=cold)
-
-
 ## 📫 Contact
 
 - 📮 Email: rinmani10002@gmail.com  
